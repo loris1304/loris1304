@@ -16,11 +16,11 @@
 <!-- Tuto : https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=df6d74)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=df6d74)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=df6d74)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=df6d74)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=df6d74)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=0066ff)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=0066ff)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=0066ff)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=0066ff)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=0066ff)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
