@@ -18,5 +18,5 @@
 
 -->
 ## 📈 My GitHub stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsmnn&hide=,prs&show_icons=true&theme=onedark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsmnn&theme=onedark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=loris1304&hide=,prs&show_icons=true&theme=onedark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loris1304&theme=onedark"/>
