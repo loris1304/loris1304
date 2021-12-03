@@ -16,11 +16,17 @@
 <!-- Tuto : https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=0066ff)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=0066ff)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=0066ff)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=0066ff)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=0066ff)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+![](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
