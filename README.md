@@ -7,8 +7,8 @@
 - Website
 
 ## 📄 I’m currently learning
--Java
--Htlm
+- Java
+- HTML
 
 ## 🔧 Technologies & Tools
 <!-- Website for the icon : https://simpleicons.org/" -->
