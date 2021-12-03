@@ -7,7 +7,7 @@
 - Website
 
 ## 📄 I’m currently learning
--Java -->
+-Java
 -Htlm
 
 ## 🔧 Technologies & Tools
