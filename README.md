@@ -11,9 +11,9 @@
 -Htlm
 
 ## 🔧 Technologies & Tools
- Website for the icon : https://simpleicons.org/"
-Website for the badge : https://shields.io/
-Tuto : https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 
+<!-- Website for the icon : https://simpleicons.org/" -->
+<!-- Website for the badge : https://shields.io/ -->
+<!-- Tuto : https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
 -->
